@@ -1,0 +1,7 @@
+[project]
+name = "genpark-structured-json-repair-and-schema-enforcer-skill"
+version = "1.0.0"
+description = "Repairs common LLM JSON generation errors including markdown code blocks, unquoted keys, trailing commas, and enforces target schema types"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
