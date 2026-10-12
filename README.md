@@ -51,3 +51,10 @@ print(res["data"])  # {'name': 'Agent Alpha', 'count': '42'}
 enforced, _ = StructuredJSONRepair.enforce_schema_types(res["data"], {"count": "int"})
 print(enforced["count"])  # 42 (integer)
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
